@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @philem247
+- 👋 Hi, I’m Phil
 - 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me philipadeoye247@gmail.com
+- 📫 How to reach me: philipadeoye247@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love learning new words
+
+- Building SpellForge: https://spell-forgee.vercel.app/
 
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=philem247)](https://git.io/streak-stats)
 
