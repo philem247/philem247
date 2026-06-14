@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me: philipadeoye247@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning new words
+- ⚡ Fun fact: I love learning new words 
 
 - Building SpellForge: https://spell-forgee.vercel.app/
 
