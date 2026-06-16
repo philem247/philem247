@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phil
 - 👀 I’m interested in Cybersecurity
-- 💞️ I’m looking to collaborate on projects 
+- 💞️ I’m looking to collaborate on projects  
 - 📫 How to reach me: philipadeoye247@gmail.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love learning new words 
